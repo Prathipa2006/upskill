@@ -1,2 +1,5 @@
 # quiz-game-using-python
-for educational purpose
+This is a quiz game
+Built with Python and Tkinter
+Run it with python project.py
+Questions are stored in questions.json
